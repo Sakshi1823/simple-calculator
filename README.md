@@ -29,4 +29,3 @@ This project focuses on layout design, styling, and UI structure.
 
 ---
 
-## 📁 Project Structure
